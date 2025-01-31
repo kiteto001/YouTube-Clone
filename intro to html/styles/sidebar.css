@@ -1,0 +1,52 @@
+@media (max-width:1200px ){
+.sidebar{
+z-index: 200;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 50px;
+  width: 73px;
+  padding-top: 5px;
+background-color: white;
+  
+}
+}
+
+@media (min-width:1200.1px ){
+  .sidebar{
+  z-index: 200;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 50px;
+    width: 73px;
+    padding-top: 5px;
+  background-color: white;
+    
+  }
+  }
+  
+
+.sidebar-link{
+height: 74px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+cursor: pointer;
+
+}
+
+.sidebar-link:hover{
+  background-color: rgb(235, 235, 235);
+}
+
+.sidebar-link img{
+  height: 24px;
+  margin-bottom: 6px;
+}
+
+.sidebar-link div{
+
+  font-size: 11px;
+}

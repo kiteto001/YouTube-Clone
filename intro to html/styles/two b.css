@@ -1,0 +1,10 @@
+.Amazon-button{
+  background-color: rgb(255, 216, 20);
+ border-radius: 25px;
+ width: 140px;
+ height: 25px;
+ border: none;
+ border-color:rgb(255, 216, 20);
+ cursor: pointer;
+ }
+ 

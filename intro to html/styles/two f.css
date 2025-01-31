@@ -1,0 +1,32 @@
+.amazon-link{
+  color: rgb(0, 113, 133);
+}
+
+.p1-line{
+font-weight: bold;
+font-size: 22px;
+
+}
+
+.p2-line{
+color: rgb(0, 188, 0);
+}
+
+.add-button{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  width: 120px;
+  height: 25px;
+  border-radius: 25px;
+  border: none;
+  margin-right: 6px;
+}
+
+.buy-button{
+ background-color: rgb(255, 164, 28);
+ color: black;
+ width: 105px;
+ height: 25px;
+ border-radius: 35px;
+ border: none;
+}
